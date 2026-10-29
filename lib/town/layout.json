@@ -1,0 +1,302 @@
+{
+  "buildings": [
+    {
+      "name": "Information",
+      "kind": "merchant",
+      "x": -11,
+      "z": 29,
+      "yaw": 1.57079632679,
+      "quest": 0
+    },
+    {
+      "name": "TeaHouse",
+      "kind": "tea",
+      "x": -11,
+      "z": 10,
+      "yaw": 1.57079632679,
+      "quest": 1
+    },
+    {
+      "name": "Sweets",
+      "kind": "merchant",
+      "x": 11,
+      "z": 10,
+      "yaw": -1.57079632679,
+      "quest": 2
+    },
+    {
+      "name": "Inn",
+      "kind": "inn",
+      "x": -11,
+      "z": -10,
+      "yaw": 1.57079632679,
+      "quest": 3
+    },
+    {
+      "name": "Craft",
+      "kind": "tea",
+      "x": 11,
+      "z": -12,
+      "yaw": -1.57079632679,
+      "quest": 4
+    },
+    {
+      "name": "Shrine",
+      "kind": "shrine",
+      "x": 49,
+      "z": -41,
+      "yaw": 0,
+      "quest": 5
+    },
+    {
+      "name": "Garden",
+      "kind": "tea",
+      "x": -47,
+      "z": 0,
+      "yaw": 1.57079632679,
+      "quest": 6
+    },
+    {
+      "name": "Festival",
+      "kind": "merchant",
+      "x": -43,
+      "z": -38,
+      "yaw": 0,
+      "quest": 7
+    },
+    {
+      "name": "Station",
+      "kind": "inn",
+      "x": 0,
+      "z": 55,
+      "yaw": 3.14159265359
+    },
+    {
+      "name": "Antiques",
+      "kind": "merchant",
+      "x": -11,
+      "z": 40,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "Books",
+      "kind": "inn",
+      "x": 11,
+      "z": 40,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "Kimono",
+      "kind": "tea",
+      "x": 11,
+      "z": 29,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "Pottery",
+      "kind": "tea",
+      "x": -11,
+      "z": 0,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "Soba",
+      "kind": "merchant",
+      "x": 11,
+      "z": 0,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "Incense",
+      "kind": "merchant",
+      "x": -11,
+      "z": -20,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "RyokanAnnex",
+      "kind": "inn",
+      "x": -11,
+      "z": -40,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "Paper",
+      "kind": "tea",
+      "x": 11,
+      "z": -40,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "Sake",
+      "kind": "merchant",
+      "x": -11,
+      "z": -51,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "DyeStudio",
+      "kind": "inn",
+      "x": 11,
+      "z": -51,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "WestShop",
+      "kind": "merchant",
+      "x": -47,
+      "z": 12,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "WestResidence",
+      "kind": "tea",
+      "x": -47,
+      "z": -12,
+      "yaw": 1.57079632679
+    },
+    {
+      "name": "EastTea",
+      "kind": "tea",
+      "x": 49,
+      "z": 1,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "EastInn",
+      "kind": "inn",
+      "x": 49,
+      "z": 20,
+      "yaw": -1.57079632679
+    },
+    {
+      "name": "EndOfStreet",
+      "kind": "merchant",
+      "x": 0,
+      "z": -68,
+      "yaw": 0
+    },
+    {
+      "name": "MountainResidence",
+      "kind": "tea",
+      "x": -20,
+      "z": -68,
+      "yaw": 0
+    },
+    {
+      "name": "MountainWorkshop",
+      "kind": "inn",
+      "x": 20,
+      "z": -68,
+      "yaw": 0
+    }
+  ],
+  "bridges": [
+    -28,
+    20
+  ],
+  "lamps": [
+    [
+      -5.8,
+      35
+    ],
+    [
+      5.8,
+      24
+    ],
+    [
+      -5.8,
+      15
+    ],
+    [
+      5.8,
+      4
+    ],
+    [
+      -5.8,
+      -5
+    ],
+    [
+      5.8,
+      -19
+    ],
+    [
+      -5.8,
+      -34
+    ],
+    [
+      5.8,
+      -46
+    ],
+    [
+      -29,
+      24
+    ],
+    [
+      38,
+      24
+    ],
+    [
+      38,
+      -24
+    ]
+  ],
+  "trees": [
+    [
+      -24,
+      38
+    ],
+    [
+      -24,
+      7
+    ],
+    [
+      -24,
+      -15
+    ],
+    [
+      -24,
+      -45
+    ],
+    [
+      40,
+      37
+    ],
+    [
+      41,
+      -11
+    ],
+    [
+      40,
+      -51
+    ],
+    [
+      60,
+      -33
+    ],
+    [
+      60,
+      -5
+    ],
+    [
+      -57,
+      27
+    ],
+    [
+      -57,
+      -27
+    ],
+    [
+      -34,
+      34
+    ],
+    [
+      -60,
+      -49
+    ]
+  ],
+  "spawn": {
+    "x": 0,
+    "z": 36
+  }
+}

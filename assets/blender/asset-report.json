@@ -1,0 +1,16 @@
+{
+  "blender": "4.2.0",
+  "buildings": 26,
+  "objects": 143,
+  "triangles": 541158,
+  "assets": [
+    {
+      "file": "koharu-environment.glb",
+      "bytes": 4428624
+    },
+    {
+      "file": "koharu-architecture.glb",
+      "bytes": 6904932
+    }
+  ]
+}
